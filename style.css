@@ -30,7 +30,7 @@ nav ul li {
 img.header-image {
     max-width: 100%;
     height: auto;
-    width: 100%; /* Kuva skaalautuu responsiivisesti ruudun leveyden mukaan */
+    max-height: 100%; /* Kuva skaalautuu responsiivisesti ruudun leveyden mukaan */
 }
 
 h1 {
