@@ -10,11 +10,9 @@ body {
 header {
     background-color: #95AAFF;
     padding: 10px;
-}
-.header-content {
     display: flex;
+    justify-content: space-between;
     align-items: center;
-     /* Lisätty hieman tilaa navigointipalkin ympärille */
 }
 
 nav ul {
@@ -44,7 +42,7 @@ border: 1px solid #ddd;
 border-radius: 5xp;
 }
 h2 {
-    color: #333;
+    color: darkblue;
 }
 strong {
     font-weight: bold;
