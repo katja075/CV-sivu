@@ -37,19 +37,19 @@ h1 {
     text-align: center;
 }
 .cv-section {
-marginn: 20px;
+margin: 20px;
 padding: 10px;
 dorder: 1px solid #ddd;
 border-radius: 5xp;
 }
 h2 {
-    color #333;
+    color: #333;
 }
 strong {
     front-weight: dold;
 }
 main {
-    max-width: 800px;
+    max-width: 100%;
     margin: 0 auto;
     padding: 20px; /* Lisätty tilaa sisällön ympärille */
 } 
