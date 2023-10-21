@@ -39,14 +39,14 @@ h1 {
 .cv-section {
 margin: 20px;
 padding: 10px;
-dorder: 1px solid #ddd;
+border: 1px solid #ddd;
 border-radius: 5xp;
 }
 h2 {
     color: #333;
 }
 strong {
-    front-weight: dold;
+    font-weight: bold;
 }
 main {
     max-width: 100%;
